@@ -1,5 +1,5 @@
 <h1 align="center">Hi! My Name Is JABLI Abderrahmane</h1>
-<h3 align="center">web developer</h3>
+<h3 align="center">🌐 web developer</h3>
 <p align="center">I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path.</p>
 <div align="center">
   <a href="https://abderrahmane-jabli.me/"> <img src="https://img.shields.io/badge/Web%20Site-Personnel-green?style=flat-square&logo=website"/></a>
@@ -9,7 +9,7 @@
 </div>
 <br/>
 <br/>
-<h3 align="center">My Tools : </h3>
+<h3 align="center">🛠️ My Tools : </h3>
 
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3)
