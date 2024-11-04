@@ -4,7 +4,7 @@
 <div align="center">
   <a href="https://abderrahmane-jabli.me/"> <img src="https://img.shields.io/badge/Web%20Site-Personnel-green?style=flat-square&logo=website"/></a>
   <a href="https://www.facebook.com/profile.php?id=100087917213714&mibextid=ZbWKwL"> <img src="https://img.shields.io/badge/Facebook-Profile-blue?style=flat-square&logo=facebook"/></a>
-  <a href="www.linkedin.com/in/abdell-jabli"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin"/></a>
+  <a href="https://www.linkedin.com/in/abdell-jabli"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin"/></a>
   <a href="mailto:jabli.contact@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Account-red?style=flat-square&logo=gmail"/></a>
 </div>
 <br/>
